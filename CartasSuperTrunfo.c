@@ -1,7 +1,25 @@
 #include <stdio.h>
 
 int main(){
-    printf("Desafio super Trunfo - PaÌses!\n");
+    printf("Desafio super Trunfo - Países!\n");
+
+    printf('código da cidade\n')
+    scanf('')
+
+    printf("nome da cidade\n")
+    scanf('')
+
+    prift("população\n")
+    scanf(" ")
+
+    prift("Área\n")
+    scanf('')
+
+    prift("PIB")
+    scanf('')
+
+    prift("números de pontos turísticos\n")
+    scanf("")
 }
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
